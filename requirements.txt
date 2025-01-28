@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+langchain-community
+bs4
+langchain-text-splitters
+langchain_openai
+sentence-transformers
+faiss-cpu
+ipykernel
+
